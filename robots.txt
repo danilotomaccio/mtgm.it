@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://madonnadifonti.it/sitemap-index.xml
+Sitemap: https://mtgm.it/sitemap-index.xml
